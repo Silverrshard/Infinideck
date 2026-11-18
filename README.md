@@ -12,7 +12,7 @@ Made with Python and pygame.
    ```
    pip install pygame
    ```
-3. Download the game, unzip it, and keep every file together in the `infinideck` folder.
+3. Download the game, **AS A .ZIP** then unzip it, and keep every file together in the `infinideck` folder.
 4. Double-click `infinideck.py`, or run this in the folder:
    ```
    python infinideck.py
