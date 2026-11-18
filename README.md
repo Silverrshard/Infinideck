@@ -6,6 +6,7 @@ Made with Python and pygame.
 
 ## How to play it
 
+0. If you have blender already installed you can open the file location, go to the folder with the name of whatever version your using, then open the folders python, bin, then drag and drop infinideck onto python.exe
 1. Install **Python 3.11 or newer** from [python.org](https://www.python.org/downloads/). When installing on Windows, tick **"Add Python to PATH"**.
 2. Install pygame. Open a terminal (Command Prompt or PowerShell) and run:
    ```
