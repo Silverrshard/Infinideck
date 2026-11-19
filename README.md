@@ -1,3 +1,7 @@
+I WILL BE ADDING MORE AND CHANGING THE PROGRAMING LANGUAGE WHEN IT IS GOOD ENOUGH TO BE OUT OF BETA
+
+
+
 # Infinideck
 
 An endless card game about huge numbers. Pull cards from a deck that never runs out, earn chips, stack wild modifiers, and grow your chip count from a handful to numbers with millions of digits.
